@@ -2,7 +2,9 @@
 Remove untracked files, stash or commit any changes, and try again.
 可以运行以下代码：
 
-`git add .
+```
+git add .
 git commit -am "Save before ejecting"
-npm run eject`
+npm run eject
+```
 
